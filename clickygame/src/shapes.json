@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "BlueCircle",
+    "image": "http://www.clker.com/cliparts/0/w/P/n/G/3/blue-circle-md.png"
+    
+  },
+  {
+    "id": 2,
+    "name": "RedTriangle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Red_triangle_with_thick_white_border.svg/2000px-Red_triangle_with_thick_white_border.svg.png"   
+  },
+  {
+    "id": 3,
+    "name": "GreenSquare",
+    "image": "http://www.solidbackgrounds.com/images/2048x2048/2048x2048-bright-green-solid-color-background.jpg"
+  }
+]
